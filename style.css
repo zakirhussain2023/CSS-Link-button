@@ -1,0 +1,35 @@
+#container{
+    border:none;
+    margin:30px;
+    display:flex;
+    border-radius: 5px;
+    overflow: hidden;
+    background-color: red;
+    width: fit-content;
+    height:27px;
+    padding-top:10px ;
+
+}
+
+
+.box-1 a{
+    color:white;
+    background-color: red;
+    text-decoration:none;
+    padding: 25px;
+}
+
+.box-2 a{
+    color:black ;
+    background-color: #fec202;
+    text-decoration:none; 
+    padding: 20px;
+}
+
+.box-3 a{
+    color:white;
+    background-color: green;
+    text-decoration: none;
+    padding: 20px;
+}
+
